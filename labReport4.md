@@ -52,10 +52,10 @@ In this step, instead of typing in the full command, I used the up arrow to acce
 
 `git<space>add<space>ListExamples.java`, `<enter>`
 
-`git<space>co`, `<enter>`
+`git<space>commit<space>-m<space>"Bug<space>Fixed"`, `<enter>`
 
-`git<space>commit -m "Bug Fixed"`
+`git<space>push<space>origin<space>main`, `<enter>`
 
 ![Image](9.png)
 
-In the final step, 
+In the final step, in order to commit and push the resulting change to my GitHub account, I first typed `git<space>add<space>ListExamples.java`, then pressed `<enter>` to track the file `ListExamples.java` in the lab7 directory to commit. Then I typed `git<space>commit<space>-m<space>"Bug<space>Fixed"` to commit the current changes with a message of "Bug Fixed", and after pressing <enter>, the command was executed
