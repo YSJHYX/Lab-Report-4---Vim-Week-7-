@@ -11,6 +11,7 @@ For this step, I entered the command `ssh` with my login account name in the ter
 ## Step 5:
 
 `git<space>clone<space>git@github.com:YSJHYX/lab7.git`, `<enter>`
+
 `cd lab7`, `<enter>`
 
 ![Image](5.png)
@@ -50,7 +51,9 @@ In this step, instead of typing in the full command, I used the up arrow to acce
 ## Step 9:
 
 `git<space>add<space>ListExamples.java`, `<enter>`
+
 `git<space>co`, `<enter>`
+
 `git<space>commit -m "Bug Fixed"`
 
 ![Image](9.png)
