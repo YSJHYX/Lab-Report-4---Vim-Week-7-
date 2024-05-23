@@ -16,7 +16,7 @@ For this step, I entered the command `ssh` with my login account name in the ter
 
 ![Image](5.png)
 
-For this step, I entered the command `git clone` with the `SSH` URL for the folk of the repository from my GitHub account, then pressed `<enter>` to complete the cloning step, which clones it into `lab7` directory. Also, in order to do the next step, I changed my current working directory to `lab7` by using `cd lab7` and pressing <enter>.
+For this step, I typed the command `git clone` with the `SSH` URL for the folk of the repository from my GitHub account, then pressed `<enter>` to complete the cloning step, which clones it into `lab7` directory. Also, in order to do the next step, I changed my current working directory to `lab7` by using `cd lab7` and pressing <enter>.
 
 ## Step 6:
 
@@ -24,7 +24,7 @@ For this step, I entered the command `git clone` with the `SSH` URL for the folk
 
 ![Image](6.png)
 
-In this step, I entered the command `bash<space>test.sh`, and then pressed `<enter>` to run the tests, demonstrating that they failed.
+In this step, I typed the command `bash<space>test.sh`, and then pressed `<enter>` to run the tests, demonstrating that they failed.
 
 ## Step 7:
 
@@ -32,7 +32,7 @@ In this step, I entered the command `bash<space>test.sh`, and then pressed `<ent
 
 ![Image](7.png)
 
-In the first part of this step, I entered `vim<space>ListExamples.java` and pressed `<enter>` to enter the `vim` editor.
+In the first part of this step, I typed `vim<space>ListExamples.java` and pressed `<enter>` to enter the `vim` editor.
 
 `i`, `2`, `esc`,`:wq`
 
