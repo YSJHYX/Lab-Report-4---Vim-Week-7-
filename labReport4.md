@@ -2,7 +2,7 @@
 
 ## Step 4:
 
-`ssh y8hong@ieng6.ucsd.edu`, `<enter>`
+`ssh<space>y8hong@ieng6.ucsd.edu`, `<enter>`
 
 ![Image](4.png)
 
@@ -10,7 +10,7 @@ For this step, I entered the command `ssh` with my login account name in the ter
 
 ## Step 5:
 
-`git clone git@github.com:YSJHYX/lab7.git`, `<enter>`
+`git<space>clone<space>git@github.com:YSJHYX/lab7.git`, `<enter>`
 `cd lab7`, `<enter>`
 
 ![Image](5.png)
@@ -19,4 +19,22 @@ For this step, I entered the command `git clone` with the `SSH` URL for the folk
 
 ## Step 6:
 
-`bash `
+`bash<space>test.sh`, `<enter>`
+
+![Image](6.png)
+
+In this step, I entered the command `bash<space>test.sh`, and then pressed `<enter>` to run the tests, demonstrating that they failed.
+
+## Step 7:
+
+`vim<space>ListExamples.java`, `<enter>`
+
+![Image](7.png)
+
+In the first part of this step, I entered `vim<space>ListExamples.java` and pressed `<enter>` to enter the `vim` editor.
+
+`i`, `2`, `esc`,`:wq`
+
+![Image](72.png)
+
+In the second part of step 7, I scrolled down to find the error. Then, I pressed `i` to enter the insert mode, moving the cursor to the space behind the `1` in `index1` and changing it to `2`. After correcting, I pressed `esc` to exit insert mode and typed `:wq` with <enter> to quit with saving.
