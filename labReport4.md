@@ -46,3 +46,13 @@ Using the up arrow to find `bash<space>test.sh` command, `<enter>`
 ![Image](8.png)
 
 In this step, instead of typing in the full command, I used the up arrow to access my bash history to find `bash<space>test.sh`. After finding the expected command, pressed `<enter>` to run the tests, demonstrating that they now succeed.
+
+## Step 9:
+
+`git<space>add<space>ListExamples.java`, `<enter>`
+`git<space>co`, `<enter>`
+`git<space>commit -m "Bug Fixed"`
+
+![Image](9.png)
+
+In the final step, 
