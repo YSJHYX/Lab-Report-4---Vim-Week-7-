@@ -1,5 +1,7 @@
 # Lab Report 4 (Vim)
 
+(Due to the color of the background after I saved the file as PDF, the `codeblocks` might not be obvious.) 
+
 ## Step 4:
 
 `ssh<space>y8hong@ieng6.ucsd.edu`, `<enter>`
