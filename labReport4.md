@@ -46,7 +46,7 @@ Using the up arrow to find `bash<space>test.sh` command, `<enter>`
 
 ![Image](8.png)
 
-In this step, instead of typing in the full command, I used the `<up>` arrow to access my bash history to find `bash<space>test.sh`. After finding the expected command, press `<enter>` to run the tests, demonstrating that they now succeed.
+In this step, instead of typing in the full command, I used the `<up>` arrow to access my bash history to find `bash<space>test.sh`. After finding the expected command, I pressed `<space>` to run the tests, demonstrating that they now succeed.
 
 ## Step 9:
 
