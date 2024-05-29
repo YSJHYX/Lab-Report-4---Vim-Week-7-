@@ -12,7 +12,7 @@ For this step, I entered the command `ssh` with my login account name in the ter
 
 `git<space>clone<space>git@github.com:YSJHYX/lab7.git`, `<enter>`
 
-`cd lab7`, `<enter>`
+`cd<space>lab7`, `<enter>`
 
 ![Image](5.png)
 
@@ -38,7 +38,7 @@ In the first part of this step, I typed `vim<space>ListExamples.java` and presse
 
 ![Image](72.png)
 
-In the second part of step 7, I scrolled down to find the error. Then, I pressed `i` to enter the insert mode, moving the cursor to the space behind the `1` in `index1` and changing it to `2`. After correcting, I pressed `esc` to exit insert mode and typed `:wq` with <enter> to quit with saving.
+In the second part of step 7, instead of using other commands, I used the <down> arrow to scroll down to find the error. Then, I pressed `i` to enter the insert mode, moving the cursor to the space behind the `1` in `index1` and changing it to `2`. After correcting, I pressed `esc` to exit insert mode and typed `:wq` with <enter> to quit with saving.
 
 ## Step 8:
 
@@ -46,7 +46,7 @@ Using the up arrow to find `bash<space>test.sh` command, `<enter>`
 
 ![Image](8.png)
 
-In this step, instead of typing in the full command, I used the up arrow to access my bash history to find `bash<space>test.sh`. After finding the expected command, pressed `<enter>` to run the tests, demonstrating that they now succeed.
+In this step, instead of typing in the full command, I used the <up> arrow to access my bash history to find `bash<space>test.sh`. After finding the expected command, pressed `<enter>` to run the tests, demonstrating that they now succeed.
 
 ## Step 9:
 
