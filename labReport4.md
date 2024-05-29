@@ -34,7 +34,7 @@ In this step, I typed the command `bash<space>test.sh`, and then pressed `<enter
 
 In the first part of this step, I typed `vim<space>ListExamples.java` and pressed `<enter>` to enter the `vim` editor.
 
-`i`, `2`, `esc`,`:wq`
+`<down>`, `i`, `2`, `esc`,`:wq`
 
 ![Image](72.png)
 
@@ -42,7 +42,7 @@ In the second part of step 7, instead of using other commands, I used the `<down
 
 ## Step 8:
 
-Using the up arrow to find `bash<space>test.sh` command, `<enter>`
+Using the `<up>` arrow to find `bash<space>test.sh` command, `<enter>`
 
 ![Image](8.png)
 
